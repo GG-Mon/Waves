@@ -4,6 +4,7 @@ import com.wavesplatform.lang.Terms._
 import fastparse.{WhitespaceApi, core, noApi}
 import scodec.bits.ByteVector
 import scorex.crypto.encode.Base58
+import Implicits._
 
 object Parser {
 
